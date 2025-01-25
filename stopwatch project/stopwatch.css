@@ -19,7 +19,6 @@ body {
 .timer{
     font-size: 2rem;
     margin:20px 0;
-
 }
 .buttons button {
     margin:5px;
@@ -42,8 +41,6 @@ button:active{
 #start {
     background-color: #4caf54;
     color: white;
-
-
 }
 #stop {
     background-color: #f44336;
